@@ -1,0 +1,1 @@
+{"attackTable":[0,0,1,2,4,4,6,2,0,10,1],"comboTable":[0,0,1,1,1,2,2,3,3,4,4,4,5],"hasSolid":false,"solid":0,"hasHold":true,"lockDelay":[500,5000,20000],"clearDelay":1000,"speedLimit":0,"gravityLvl":20,"garbageDelay":20000,"mess":100,"asEx":"","solidAtk":true,"noFW":true,"gdmSel":3,"gblockSel":0,"blocksSel":0,"rndSel":0,"prSel":5}
